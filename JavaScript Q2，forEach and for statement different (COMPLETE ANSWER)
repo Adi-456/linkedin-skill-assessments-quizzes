@@ -1,0 +1,14 @@
+
+====>>>>   COMPLETE STATEMENT
+" A for statement is more generic and can be used for various looping purposes, including iterating over arrays, objects, and other data structures, 
+while a forEach statement is primarily used for iterating over arrays and iterable objects like Set. "
+
+=>good summary of the difference between for and forEach statements.
+
+-> For statements are more general-purpose and can be used to iterate over any type of data structure, including arrays, objects, and even custom data structures that you have created. To use a for statement, you need to know the following:
+a)The starting value of the loop counter
+b)The condition that the loop counter will be evaluated against
+c)The amount by which the loop counter will be incremented/decremented on each iteration
+
+->ForEach statements, on the other hand, are specifically designed for iterating over arrays and iterable objects. To use a forEach statement, you simply need to pass the array or iterable object to the forEach() method. The forEach() method will then call a callback function for each element in the array or iterable object.
+
